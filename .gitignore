@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Additions for this project
+config.json
+temp_files/
+
+# uv
+uv.lock
